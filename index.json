@@ -1,13 +1,13 @@
 {
   "plugins": [
     {
-      "id": "jkanime",
-      "name": "JKanime",
+      "id": "ramentv",
+      "name": "RamenTV",
       "author": "IamJony",
       "version": "1.0",
-      "icon_url": "https://raw.githubusercontent.com/IamJony/plugins-tinytv/main/iconos/jkanime.png",
-      "zip_url": "https://raw.githubusercontent.com/IamJony/plugins-tinytv/main/zips/jkanime.zip",
-      "description": "Anime en español desde jkanime.net."
+      "icon_url": "https://raw.githubusercontent.com/IamJony/plugins-tinytv/main/iconos/ramentv.png",
+      "zip_url": "https://raw.githubusercontent.com/IamJony/plugins-tinytv/main/zips/ramentv.zip",
+      "description": "Anime sub español"
     }
   ]
 }
