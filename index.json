@@ -1,0 +1,13 @@
+{
+  "plugins": [
+    {
+      "id": "jkanime",
+      "name": "JKanime",
+      "author": "j",
+      "version": "1.0",
+      "icon_url": "https://raw.githubusercontent.com/IamJony/plugins-tinytv/main/iconos/jkanime.png",
+      "zip_url": "https://raw.githubusercontent.com/IamJony/plugins-tinytv/main/zips/jkanime.zip",
+      "description": "Anime en español desde jkanime.net."
+    }
+  ]
+}
