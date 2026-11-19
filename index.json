@@ -47,12 +47,12 @@
     },
       {
       "id": "music",
-      "name": "Youtube Music. Depende del plugin youtube para poder funcionar",
+      "name": "Youtube Music",
       "author": "AnddyCort",
       "version": "1.0",
       "icon_url": "https://raw.githubusercontent.com/IamJony/plugins-tinytv/main/iconos/music.png",
       "zip_url": "https://raw.githubusercontent.com/IamJony/plugins-tinytv/main/zips/music.zip",
-      "description": "Cliente de youtube music"
+      "description": "Cliente de youtube music. Depende del plugin youtube para poder funcionar"
     }
   ]
 }
