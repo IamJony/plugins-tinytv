@@ -35,6 +35,15 @@
       "icon_url": "https://raw.githubusercontent.com/IamJony/plugins-tinytv/main/iconos/twitch.png",
       "zip_url": "https://raw.githubusercontent.com/IamJony/plugins-tinytv/main/zips/twitch.zip",
       "description": "Cliente de twitch"
+    },
+    {
+      "id": "kick",
+      "name": "Kick",
+      "author": "AnddyCort",
+      "version": "1.0",
+      "icon_url": "https://raw.githubusercontent.com/IamJony/plugins-tinytv/main/iconos/kick.png",
+      "zip_url": "https://raw.githubusercontent.com/IamJony/plugins-tinytv/main/zips/kick.zip",
+      "description": "Cliente de kick"
     }
   ]
 }
