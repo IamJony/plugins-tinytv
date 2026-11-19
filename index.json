@@ -8,6 +8,15 @@
       "icon_url": "https://raw.githubusercontent.com/IamJony/plugins-tinytv/main/iconos/ramentv.png",
       "zip_url": "https://raw.githubusercontent.com/IamJony/plugins-tinytv/main/zips/ramentv.zip",
       "description": "Anime sub español"
+    },
+    {
+      "id": "internetarchive",
+      "name": "Internet Archive",
+      "author": "IamJony",
+      "version": "1.0",
+      "icon_url": "https://raw.githubusercontent.com/IamJony/plugins-tinytv/main/iconos/archive.png",
+      "zip_url": "https://raw.githubusercontent.com/IamJony/plugins-tinytv/main/zips/archive.zip",
+      "description": "Mira videos, películas, series y anime en español"
     }
   ]
 }
