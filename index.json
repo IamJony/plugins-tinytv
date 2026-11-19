@@ -26,6 +26,15 @@
       "icon_url": "https://raw.githubusercontent.com/IamJony/plugins-tinytv/main/iconos/youtube.png",
       "zip_url": "https://raw.githubusercontent.com/IamJony/plugins-tinytv/main/zips/youtube.zip",
       "description": "Cliente de youtube"
+    },
+     {
+      "id": "twitch",
+      "name": "Twitch",
+      "author": "AnddyCort",
+      "version": "1.0",
+      "icon_url": "https://raw.githubusercontent.com/IamJony/plugins-tinytv/main/iconos/twitch.png",
+      "zip_url": "https://raw.githubusercontent.com/IamJony/plugins-tinytv/main/zips/twitch.zip",
+      "description": "Cliente de twitch"
     }
   ]
 }
