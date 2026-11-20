@@ -18,7 +18,16 @@
       "zip_url": "https://raw.githubusercontent.com/IamJony/plugins-tinytv/main/zips/archive.zip",
       "description": "Mira videos, películas, series y anime en español"
     },
-     {
+    {
+      "id": "odysee",
+      "name": "Odysee",
+      "author": "IamJony",
+      "version": "1.0",
+      "icon_url": "https://raw.githubusercontent.com/IamJony/plugins-tinytv/main/iconos/odysee.png",
+      "zip_url": "https://raw.githubusercontent.com/IamJony/plugins-tinytv/main/zips/odysee.zip",
+      "description": "Cliente odysee / LBRY"
+    },
+    {
       "id": "youtube",
       "name": "Youtube",
       "author": "AnddyCort",
@@ -27,7 +36,7 @@
       "zip_url": "https://raw.githubusercontent.com/IamJony/plugins-tinytv/main/zips/youtube.zip",
       "description": "Cliente de youtube"
     },
-     {
+    {
       "id": "twitch",
       "name": "Twitch",
       "author": "AnddyCort",
@@ -45,7 +54,7 @@
       "zip_url": "https://raw.githubusercontent.com/IamJony/plugins-tinytv/main/zips/kick.zip",
       "description": "Cliente de kick"
     },
-      {
+    {
       "id": "music",
       "name": "Youtube Music",
       "author": "AnddyCort",
