@@ -22,7 +22,7 @@
       "id": "odysee",
       "name": "Odysee",
       "author": "IamJony",
-      "version": "1.0",
+      "version": "1.0.1",
       "icon_url": "https://raw.githubusercontent.com/IamJony/plugins-tinytv/main/iconos/odysee.png",
       "zip_url": "https://raw.githubusercontent.com/IamJony/plugins-tinytv/main/zips/odysee.zip",
       "description": "Cliente odysee / LBRY"
