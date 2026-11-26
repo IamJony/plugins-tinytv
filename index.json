@@ -71,6 +71,16 @@
       "icon_url": "https://raw.githubusercontent.com/IamJony/plugins-tinytv/main/iconos/music.png",
       "zip_url": "https://raw.githubusercontent.com/IamJony/plugins-tinytv/main/zips/music.zip",
       "description": "Cliente de youtube music. Depende del plugin youtube para poder funcionar"
+    },
+    {
+      "id": "radiobrowser",
+      "name": "Radio browser",
+      "author": "IamJony",
+      "version": "1.0",
+      "icon_url": "https://raw.githubusercontent.com/IamJony/plugins-tinytv/main/iconos/radiobrowser.png",
+      "zip_url": "https://raw.githubusercontent.com/IamJony/plugins-tinytv/main/zips/radiobrowser.zip",
+      "description": "Escucha radio en vivo de todo los paises por internet"
     }
+    
   ]
 }
