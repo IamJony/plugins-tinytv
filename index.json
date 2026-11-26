@@ -4,7 +4,7 @@
       "id": "ramentv",
       "name": "RamenTV",
       "author": "IamJony",
-      "version": "1.0",
+      "version": "1.0.1",
       "icon_url": "https://raw.githubusercontent.com/IamJony/plugins-tinytv/main/iconos/ramentv.png",
       "zip_url": "https://raw.githubusercontent.com/IamJony/plugins-tinytv/main/zips/ramentv.zip",
       "description": "Anime sub español"
@@ -13,7 +13,7 @@
       "id": "archive",
       "name": "Internet Archive",
       "author": "IamJony",
-      "version": "1.0",
+      "version": "1.0.1",
       "icon_url": "https://raw.githubusercontent.com/IamJony/plugins-tinytv/main/iconos/archive.png",
       "zip_url": "https://raw.githubusercontent.com/IamJony/plugins-tinytv/main/zips/archive.zip",
       "description": "Mira videos, películas, series y anime en español"
@@ -26,6 +26,15 @@
       "icon_url": "https://raw.githubusercontent.com/IamJony/plugins-tinytv/main/iconos/odysee.png",
       "zip_url": "https://raw.githubusercontent.com/IamJony/plugins-tinytv/main/zips/odysee.zip",
       "description": "Cliente odysee / LBRY"
+    },
+    {
+      "id": "hackstream",
+      "name": "Hackstream",
+      "author": "IamJony",
+      "version": "1.0.1",
+      "icon_url": "https://raw.githubusercontent.com/IamJony/plugins-tinytv/main/iconos/hackstream.png",
+      "zip_url": "https://raw.githubusercontent.com/IamJony/plugins-tinytv/main/zips/hackstream.zip",
+      "description": "Hacking ético y ciberseguridad en español"
     },
     {
       "id": "youtube",
